@@ -158,6 +158,10 @@ The `STAGE4_CORRECTIONS` dictionary in `pipeline.py` contains domain expert corr
 
 MIT (see LICENSE file)
 
+## Repository
+
+GitHub: https://github.com/rohanvinaik/sdrf-harmonization-pipeline
+
 ## References
 
 - PRIDE Archive: https://www.ebi.ac.uk/pride/
